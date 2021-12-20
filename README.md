@@ -1,5 +1,5 @@
 # AgeRectifier
-An app that calculates your age in months, days, hours, minutes and seconds.
+An Android application that calculates your age in months, days, hours, minutes and seconds.
 
 # What I Learned
 
